@@ -1,0 +1,13 @@
+
+
+' or 1=1#--
+
+
+
+<script>alert("try to xss")</script>
+
+
+
+var options = {
+            region: 'HK',
+        };
