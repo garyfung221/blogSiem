@@ -1,0 +1,72 @@
+/* Poppins font CDN from Google */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+:root {
+  --theme-color: #137547;
+  --hover-color: #11683f;
+}
+
+* {
+
+  font-family: "Poppins", sans-serif;
+}
+
+/* Button */
+.btn {
+  background-color: var(--theme-color);
+  border: none;
+  padding: 10px 16px;
+  border-radius: 8px;
+  font-weight: 500;
+  font-size: 14px;
+  outline: none;
+  height: 40px;
+  cursor: pointer;
+  outline: none;
+  color: white !important;
+  text-decoration: none;
+  transition: 0.3s all ease;
+}
+
+.btn:hover,
+.btn:focus,
+.btn:active,
+.btn.active {
+  background-color: var(--hover-color);
+}
+/* ./Button */
+
+/* Input field */
+.input {
+  background-color: transparent;
+  border: 2px solid hsl(0, 0%, 90%);
+  border-radius: 8px;
+  height: 40px;
+  font-size: 14px;
+  padding: 10px 16px;
+  transition: 0.3s all ease;
+}
+
+.input:focus {
+  border-color: var(--theme-color);
+}
+/* ./Input field */
+
+/* Search */
+.search {
+  padding: 50px 0;
+}
+
+.search .txt h1 {
+  font-weight: 600;
+}
+
+.search .form {
+  display: flex;
+}
+
+.search .form input {
+  flex: 5;
+}
+/* ./Search */
+

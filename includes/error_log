@@ -1,0 +1,436 @@
+[26-Jul-2022 06:43:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(14): login_check_event('gary221', '1234')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[26-Jul-2022 06:44:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(14): login_check_event('gary221', '1234')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[26-Jul-2022 06:47:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(14): login_check_event('gary221', '1234')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[26-Jul-2022 06:52:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(14): login_check_event('gary221', '1234')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[26-Jul-2022 06:58:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(14): login_check_event('angle887', '999')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[26-Jul-2022 07:07:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(14): login_check_event('gary221', '1234')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[26-Jul-2022 07:20:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(14): login_check_event('gary221', '1234')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[27-Jul-2022 08:00:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function testIn() in /home/a4xi0bvah939/public_html/includes/login.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/a4xi0bvah939/public_html/includes/login.php on line 15
+[27-Jul-2022 08:01:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function testIn() in /home/a4xi0bvah939/public_html/includes/login.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/a4xi0bvah939/public_html/includes/login.php on line 15
+[27-Jul-2022 09:09:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function testIn() in /home/a4xi0bvah939/public_html/includes/login.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/a4xi0bvah939/public_html/includes/login.php on line 15
+[27-Jul-2022 09:11:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function testIn() in /home/a4xi0bvah939/public_html/includes/login.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/a4xi0bvah939/public_html/includes/login.php on line 15
+[27-Jul-2022 09:12:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function testIn() in /home/a4xi0bvah939/public_html/includes/login.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/a4xi0bvah939/public_html/includes/login.php on line 15
+[27-Jul-2022 12:44:23 UTC] PHP Fatal error:  Cannot redeclare login_check_event() (previously declared in /home/a4xi0bvah939/public_html/includes/login.php:13) in /home/a4xi0bvah939/public_html/event_function.php on line 4
+[27-Jul-2022 12:44:31 UTC] PHP Fatal error:  Cannot redeclare login_check_event() (previously declared in /home/a4xi0bvah939/public_html/includes/login.php:13) in /home/a4xi0bvah939/public_html/event_function.php on line 4
+[27-Jul-2022 12:44:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/includes/login.php:37
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(75): login_check_event('gary221', '1234')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/includes/login.php on line 37
+[27-Jul-2022 17:16:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(16): login_check_event('gary221', '1234')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[27-Jul-2022 17:16:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(17): login_check_event('gary221', '1234')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[27-Jul-2022 17:19:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(17): login_check_event('gary221', '1234')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[27-Jul-2022 17:21:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(17): login_check_event('gary221', '1234')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[27-Jul-2022 17:21:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(17): login_check_event('gary221', '1234')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[27-Jul-2022 17:23:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(17): login_check_event('gary221', '1234')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[27-Jul-2022 17:24:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(17): login_check_event('', '')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[27-Jul-2022 17:25:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(17): login_check_event('', '')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[27-Jul-2022 17:25:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(17): login_check_event('', '')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[27-Jul-2022 17:26:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(17): login_check_event('', '')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[27-Jul-2022 17:27:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(17): login_check_event('gary221', '')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[27-Jul-2022 17:30:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(17): login_check_event('', '')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[27-Jul-2022 17:30:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(17): login_check_event('gary221', '1234')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[27-Jul-2022 17:31:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(18): login_check_event('', '')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[27-Jul-2022 17:31:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(18): login_check_event('gary221', '')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[27-Jul-2022 17:32:19 UTC] PHP Notice:  Undefined variable: username in /home/a4xi0bvah939/public_html/includes/login.php on line 13
+[27-Jul-2022 17:32:19 UTC] PHP Notice:  Undefined variable: password in /home/a4xi0bvah939/public_html/includes/login.php on line 13
+[27-Jul-2022 17:32:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(13): login_check_event(NULL, NULL)
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[27-Jul-2022 17:34:40 UTC] PHP Notice:  Undefined variable: username in /home/a4xi0bvah939/public_html/includes/login.php on line 13
+[27-Jul-2022 17:34:40 UTC] PHP Notice:  Undefined variable: password in /home/a4xi0bvah939/public_html/includes/login.php on line 13
+[27-Jul-2022 17:34:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(13): login_check_event(NULL, NULL)
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[27-Jul-2022 17:47:07 UTC] PHP Notice:  Undefined variable: username in /home/a4xi0bvah939/public_html/includes/login.php on line 13
+[27-Jul-2022 17:47:07 UTC] PHP Notice:  Undefined variable: password in /home/a4xi0bvah939/public_html/includes/login.php on line 13
+[27-Jul-2022 17:47:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(13): login_check_event(NULL, NULL)
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[27-Jul-2022 17:48:28 UTC] PHP Notice:  Undefined variable: username in /home/a4xi0bvah939/public_html/includes/login.php on line 13
+[27-Jul-2022 17:48:28 UTC] PHP Notice:  Undefined variable: password in /home/a4xi0bvah939/public_html/includes/login.php on line 13
+[27-Jul-2022 17:48:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(13): login_check_event(NULL, NULL)
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[27-Jul-2022 17:48:34 UTC] PHP Notice:  Undefined variable: username in /home/a4xi0bvah939/public_html/includes/login.php on line 13
+[27-Jul-2022 17:48:34 UTC] PHP Notice:  Undefined variable: password in /home/a4xi0bvah939/public_html/includes/login.php on line 13
+[27-Jul-2022 17:48:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(13): login_check_event(NULL, NULL)
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[27-Jul-2022 18:09:45 UTC] PHP Notice:  Undefined variable: username in /home/a4xi0bvah939/public_html/includes/login.php on line 13
+[27-Jul-2022 18:09:45 UTC] PHP Notice:  Undefined variable: password in /home/a4xi0bvah939/public_html/includes/login.php on line 13
+[27-Jul-2022 18:14:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(17): login_check_event('', '')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[27-Jul-2022 18:18:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(17): login_check_event('gary221', '1234')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[27-Jul-2022 18:18:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(17): login_check_event('gary221', '')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[27-Jul-2022 18:20:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(17): login_check_event('', '')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[27-Jul-2022 18:20:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(17): login_check_event('', '')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[27-Jul-2022 18:22:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(17): login_check_event('', '')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[27-Jul-2022 18:22:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(17): login_check_event('', '')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[27-Jul-2022 18:22:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(17): login_check_event('', '')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[27-Jul-2022 18:24:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:20
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(17): login_check_event('', '')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 20
+[27-Jul-2022 18:26:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:22
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(17): login_check_event('', '')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 22
+[27-Jul-2022 18:27:30 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/a4xi0bvah939/public_html/event_function.php on line 41
+[27-Jul-2022 18:27:44 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/a4xi0bvah939/public_html/event_function.php on line 41
+[27-Jul-2022 18:29:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:26
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(17): login_check_event('gary221', '1234')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 26
+[27-Jul-2022 18:30:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:26
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(17): login_check_event('gary221', '1234')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 26
+[27-Jul-2022 18:31:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:26
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(17): login_check_event('script', '')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 26
+[27-Jul-2022 18:32:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:28
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(17): login_check_event('script', '')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 28
+[27-Jul-2022 18:32:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:27
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(17): login_check_event('sc', '')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[27-Jul-2022 18:32:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:27
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(17): login_check_event('script', '')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[27-Jul-2022 18:32:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:27
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(17): login_check_event('<script>', '')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[27-Jul-2022 18:36:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:24
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(17): login_check_event('gary221', '')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 24
+[27-Jul-2022 18:38:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/a4xi0bvah939/public_html/event_function.php:24
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(17): login_check_event('gary221', '')
+#1 {main}
+  thrown in /home/a4xi0bvah939/public_html/event_function.php on line 24
+[27-Jul-2022 19:05:26 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[27-Jul-2022 19:06:43 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[27-Jul-2022 19:08:14 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[27-Jul-2022 19:08:18 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[27-Jul-2022 19:09:11 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[27-Jul-2022 19:11:01 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[27-Jul-2022 19:16:54 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[27-Jul-2022 19:17:00 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[27-Jul-2022 19:17:02 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[27-Jul-2022 19:17:04 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[27-Jul-2022 19:17:06 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[27-Jul-2022 19:17:08 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[27-Jul-2022 19:17:10 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[27-Jul-2022 19:18:19 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[27-Jul-2022 19:18:34 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[27-Jul-2022 19:18:37 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[27-Jul-2022 19:18:39 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[27-Jul-2022 19:18:41 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[27-Jul-2022 19:18:54 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[27-Jul-2022 19:19:25 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[27-Jul-2022 19:20:01 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[27-Jul-2022 19:20:04 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[27-Jul-2022 19:20:08 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[27-Jul-2022 19:20:11 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[27-Jul-2022 19:20:18 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[27-Jul-2022 19:20:55 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[27-Jul-2022 20:23:38 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[27-Jul-2022 20:37:09 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:11:16 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:40:24 UTC] PHP Warning:  include(../sendMail.php): failed to open stream: No such file or directory in /home/a4xi0bvah939/public_html/includes/login.php on line 5
+[28-Jul-2022 05:40:24 UTC] PHP Warning:  include(): Failed opening '../sendMail.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/a4xi0bvah939/public_html/includes/login.php on line 5
+[28-Jul-2022 05:40:24 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:40:29 UTC] PHP Warning:  include(../sendMail.php): failed to open stream: No such file or directory in /home/a4xi0bvah939/public_html/includes/login.php on line 5
+[28-Jul-2022 05:40:29 UTC] PHP Warning:  include(): Failed opening '../sendMail.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/a4xi0bvah939/public_html/includes/login.php on line 5
+[28-Jul-2022 05:40:29 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:40:41 UTC] PHP Warning:  include(../sendMail.php): failed to open stream: No such file or directory in /home/a4xi0bvah939/public_html/includes/login.php on line 5
+[28-Jul-2022 05:40:41 UTC] PHP Warning:  include(): Failed opening '../sendMail.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/a4xi0bvah939/public_html/includes/login.php on line 5
+[28-Jul-2022 05:40:41 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:40:44 UTC] PHP Warning:  include(../sendMail.php): failed to open stream: No such file or directory in /home/a4xi0bvah939/public_html/includes/login.php on line 5
+[28-Jul-2022 05:40:44 UTC] PHP Warning:  include(): Failed opening '../sendMail.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/a4xi0bvah939/public_html/includes/login.php on line 5
+[28-Jul-2022 05:40:44 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:40:49 UTC] PHP Warning:  include(../sendMail.php): failed to open stream: No such file or directory in /home/a4xi0bvah939/public_html/includes/login.php on line 5
+[28-Jul-2022 05:40:49 UTC] PHP Warning:  include(): Failed opening '../sendMail.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/a4xi0bvah939/public_html/includes/login.php on line 5
+[28-Jul-2022 05:40:49 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:40:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sendMail() in /home/a4xi0bvah939/public_html/includes/login.php:139
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(116): spam()
+#1 /home/a4xi0bvah939/public_html/includes/login.php(20): check_spam()
+#2 {main}
+  thrown in /home/a4xi0bvah939/public_html/includes/login.php on line 139
+[28-Jul-2022 05:40:58 UTC] PHP Warning:  include(../sendMail.php): failed to open stream: No such file or directory in /home/a4xi0bvah939/public_html/includes/login.php on line 5
+[28-Jul-2022 05:40:58 UTC] PHP Warning:  include(): Failed opening '../sendMail.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/a4xi0bvah939/public_html/includes/login.php on line 5
+[28-Jul-2022 05:40:58 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:40:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sendMail() in /home/a4xi0bvah939/public_html/includes/login.php:139
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/includes/login.php(116): spam()
+#1 /home/a4xi0bvah939/public_html/includes/login.php(20): check_spam()
+#2 {main}
+  thrown in /home/a4xi0bvah939/public_html/includes/login.php on line 139
+[28-Jul-2022 05:41:13 UTC] PHP Warning:  include(../sendMail.php): failed to open stream: No such file or directory in /home/a4xi0bvah939/public_html/includes/login.php on line 5
+[28-Jul-2022 05:41:13 UTC] PHP Warning:  include(): Failed opening '../sendMail.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/a4xi0bvah939/public_html/includes/login.php on line 5
+[28-Jul-2022 05:41:13 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:41:16 UTC] PHP Warning:  include(../sendMail.php): failed to open stream: No such file or directory in /home/a4xi0bvah939/public_html/includes/login.php on line 5
+[28-Jul-2022 05:41:16 UTC] PHP Warning:  include(): Failed opening '../sendMail.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/a4xi0bvah939/public_html/includes/login.php on line 5
+[28-Jul-2022 05:41:16 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:41:29 UTC] PHP Warning:  include(../sendMail.php): failed to open stream: No such file or directory in /home/a4xi0bvah939/public_html/includes/login.php on line 5
+[28-Jul-2022 05:41:29 UTC] PHP Warning:  include(): Failed opening '../sendMail.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/a4xi0bvah939/public_html/includes/login.php on line 5
+[28-Jul-2022 05:41:29 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:41:34 UTC] PHP Warning:  include(../sendMail.php): failed to open stream: No such file or directory in /home/a4xi0bvah939/public_html/includes/login.php on line 5
+[28-Jul-2022 05:41:34 UTC] PHP Warning:  include(): Failed opening '../sendMail.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/a4xi0bvah939/public_html/includes/login.php on line 5
+[28-Jul-2022 05:41:34 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:42:03 UTC] PHP Warning:  require(PHPMailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/a4xi0bvah939/public_html/send.php on line 2
+[28-Jul-2022 05:42:03 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/class.phpmailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/a4xi0bvah939/public_html/send.php on line 2
+[28-Jul-2022 05:42:06 UTC] PHP Warning:  require(PHPMailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/a4xi0bvah939/public_html/send.php on line 2
+[28-Jul-2022 05:42:06 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/class.phpmailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/a4xi0bvah939/public_html/send.php on line 2
+[28-Jul-2022 05:43:04 UTC] PHP Warning:  require(PHPMailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/a4xi0bvah939/public_html/send.php on line 2
+[28-Jul-2022 05:43:04 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/class.phpmailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/a4xi0bvah939/public_html/send.php on line 2
+[28-Jul-2022 05:44:10 UTC] PHP Warning:  require(PHPMailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/a4xi0bvah939/public_html/send.php on line 2
+[28-Jul-2022 05:44:10 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/class.phpmailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/a4xi0bvah939/public_html/send.php on line 2
+[28-Jul-2022 05:45:05 UTC] PHP Warning:  require(PHPMailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/a4xi0bvah939/public_html/send.php on line 2
+[28-Jul-2022 05:45:05 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/class.phpmailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/a4xi0bvah939/public_html/send.php on line 2
+[28-Jul-2022 05:49:14 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:49:16 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:49:18 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:49:19 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:49:21 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:49:21 UTC] PHP Fatal error:  Uncaught phpmailerException: You must provide at least one recipient email address. in /home/a4xi0bvah939/public_html/PHPMailer/class.phpmailer.php:588
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/PHPMailer/class.phpmailer.php(574): PHPMailer->PreSend()
+#1 /home/a4xi0bvah939/public_html/send.php(28): PHPMailer->Send()
+#2 /home/a4xi0bvah939/public_html/includes/login.php(139): sendMail()
+#3 /home/a4xi0bvah939/public_html/includes/login.php(116): spam()
+#4 /home/a4xi0bvah939/public_html/includes/login.php(20): check_spam()
+#5 {main}
+  thrown in /home/a4xi0bvah939/public_html/PHPMailer/class.phpmailer.php on line 588
+[28-Jul-2022 05:49:56 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:50:09 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:51:22 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:51:24 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:51:26 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:51:28 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:51:29 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:51:29 UTC] PHP Fatal error:  Uncaught phpmailerException: You must provide at least one recipient email address. in /home/a4xi0bvah939/public_html/PHPMailer/class.phpmailer.php:588
+Stack trace:
+#0 /home/a4xi0bvah939/public_html/PHPMailer/class.phpmailer.php(574): PHPMailer->PreSend()
+#1 /home/a4xi0bvah939/public_html/send.php(28): PHPMailer->Send()
+#2 /home/a4xi0bvah939/public_html/includes/login.php(139): sendMail()
+#3 /home/a4xi0bvah939/public_html/includes/login.php(116): spam()
+#4 /home/a4xi0bvah939/public_html/includes/login.php(20): check_spam()
+#5 {main}
+  thrown in /home/a4xi0bvah939/public_html/PHPMailer/class.phpmailer.php on line 588
+[28-Jul-2022 05:52:24 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:53:05 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:57:24 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:57:26 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:57:28 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:57:32 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:57:34 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:57:41 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:58:28 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:58:30 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:58:32 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:58:33 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 05:58:37 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 06:08:29 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 06:08:43 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 06:08:49 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 06:10:16 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 15:30:40 Asia/Hong_Kong] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 15:39:46 Asia/Hong_Kong] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 07:45:40 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 07:46:41 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 08:23:46 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 09:46:16 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 09:46:23 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 09:58:02 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 09:58:20 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 10:04:17 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 10:04:19 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 10:04:22 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 10:04:24 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 10:04:26 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 10:04:55 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 10:19:20 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 12:26:11 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 12:26:18 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 12:43:09 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 12:51:08 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 12:51:45 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 12:51:48 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 12:51:54 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 12:51:58 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 12:52:01 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 12:52:17 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 12:56:41 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 13:53:52 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 14:37:32 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 14:44:24 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 14:49:28 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 14:50:29 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 14:51:23 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 14:53:53 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 15:02:55 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 15:09:59 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
+[28-Jul-2022 23:10:17 UTC] PHP Notice:  Undefined variable: usernmae in /home/a4xi0bvah939/public_html/event_function.php on line 27
