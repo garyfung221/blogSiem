@@ -24,7 +24,7 @@ if(($username=='<script>')||($password=='<script>')){
 
  
     
-}else if(($username=="/")||($usernmae==',')||($username=='\'')||($username=='"')||($username==')')||($username=='(')||($username==';')||($password=='/')||($password==',')||($password=='\'')||($password=='"')||($password==')')||($password=='(')||($password==';')||($username=="' or 1=1#--")){
+}else if(($username=="/")||($username==',')||($username=='\'')||($username=='"')||($username==')')||($username=='(')||($username==';')||($password=='/')||($password==',')||($password=='\'')||($password=='"')||($password==')')||($password=='(')||($password==';')||($username=="' or 1=1#--")){
 
     $action = "injection";
     $status = "close";
